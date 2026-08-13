@@ -1,0 +1,8 @@
+[
+  "tests/test_api.py::test_create_assessment_session_requires_auth",
+  "tests/test_api.py::test_create_assessment_session_success",
+  "tests/test_api.py::test_login_failure",
+  "tests/test_api.py::test_login_success",
+  "tests/test_domain_models.py::test_create_organization_and_clinician",
+  "tests/test_domain_models.py::test_create_patient_and_case"
+]

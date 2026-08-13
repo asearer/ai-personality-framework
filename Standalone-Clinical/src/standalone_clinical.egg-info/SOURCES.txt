@@ -1,0 +1,11 @@
+pyproject.toml
+src/__init__.py
+src/api/__init__.py
+src/domain/__init__.py
+src/infrastructure/__init__.py
+src/security/__init__.py
+src/standalone_clinical.egg-info/PKG-INFO
+src/standalone_clinical.egg-info/SOURCES.txt
+src/standalone_clinical.egg-info/dependency_links.txt
+src/standalone_clinical.egg-info/requires.txt
+src/standalone_clinical.egg-info/top_level.txt

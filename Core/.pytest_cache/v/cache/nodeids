@@ -1,0 +1,7 @@
+[
+  "tests/test_behavioral_pipeline.py::TestBehavioralPipeline::test_end_to_end_rewarding_event",
+  "tests/test_behavioral_pipeline.py::TestBehavioralPipeline::test_end_to_end_threatening_event",
+  "tests/test_cognitive_loop.py::TestCognitiveLoop::test_rewarding_event_pipeline",
+  "tests/test_cognitive_loop.py::TestCognitiveLoop::test_threatening_event_pipeline",
+  "tests/test_events.py::TestEventBus::test_event_publish_subscribe"
+]
