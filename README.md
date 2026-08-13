@@ -213,3 +213,17 @@ The project consists of several major variants.
                              │
                          RESEARCH
                          ENVIRONMENT
+
+---
+
+# 33. Repository Architecture
+
+The Modular Personality AI Platform has been unified into a single, consolidated repository (monorepo) to streamline development across its various components. All independent `.git` submodules have been removed.
+
+The current repository structure is as follows:
+
+- `Core/` — The foundational modules, logic, and traits for the personality engine.
+- `Standalone-Clinical/` — The clinical variant with strict safety and oversight integrations.
+- `gui/` — The Universal Research GUI (Next.js), which provides observability, experimentation, and dashboarding capabilities for the platform.
+
+For more details on the GUI, please see the [GUI README](./gui/README.md).
